@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! 👋 Eu sou Raphael Rocha<br>👨‍💻 Desenvolvedor de Aplicativos | Entusiasta de Tecnologia | Aprendiz Contínuo<br><br>📍 Localização: Alfenas, Minas Gerais<br><br>Sobre Mim<br>Sou um desenvolvedor de aplicativos apaixonado por criar soluções inovadoras e eficientes. Com 1 ano de experiência em desenvolvimento mobile, tenho me especializado em flutter/dart. Adoro explorar novas tecnologias e contribuir para projetos de código aberto.<br><br>Habilidades<br>Linguagens: Dart e C#<br>Frameworks e Bibliotecas: Flutter<br>Ferramentas e Plataformas: Git e fork<br>Metodologias: Scrum e Kanban<br><br>Vamos Conectar!<br>Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo ou explorar meus repositórios!</p>
+<p align="left">Olá! 👋 Eu sou Raphael Rocha<br>👨‍💻 Desenvolvedor de Aplicativos | Entusiasta de Tecnologia | Aprendiz Contínuo<br><br>Sobre Mim<br>Sou um desenvolvedor de aplicativos apaixonado por criar soluções inovadoras e eficientes. Com 1 ano de experiência em desenvolvimento mobile, tenho me especializado em flutter/dart. Adoro explorar novas tecnologias e contribuir para projetos de código aberto.<br><br>Habilidades<br>Linguagens: Dart e C#<br>Frameworks e Bibliotecas: Flutter<br>Ferramentas e Plataformas: Git e fork<br>Metodologias: Scrum e Kanban<br><br>Vamos Conectar!<br>Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo ou explorar meus repositórios!</p>
 
 ###
 
