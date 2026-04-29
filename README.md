@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">Olá! 👋 Eu sou **Raphael Rocha**<br>👨‍💻 **Desenvolvedor Mobile | Flutter & Android**<br><br>Desenvolvedor Mobile com 2 anos de experiência sólida em Flutter e Dart em ambiente de produção[cite: 8]. Especialista na criação de aplicativos escaláveis com foco em arquitetura limpa, integração de APIs REST e gerenciamento de estado avançado [cite: 9].<br><br>Possuo forte viés de qualidade técnica, com experiência em revisão de código (Code Review) e correção de bugs críticos em produção, garantindo alta performance e estabilidade de software[cite: 10].<br><br>
+<p align="left">Olá! 👋 Eu sou **Raphael Rocha**<br>👨‍💻 **Desenvolvedor Mobile | Flutter & Android**<br><br>Desenvolvedor Mobile com 2 anos de experiência sólida em Flutter e Dart em ambiente de produção. Especialista na criação de aplicativos escaláveis com foco em arquitetura limpa, integração de APIs REST e gerenciamento de estado avançado.<br><br>Possuo forte viés de qualidade técnica, com experiência em revisão de código (Code Review) e correção de bugs críticos em produção, garantindo alta performance e estabilidade de software.<br><br>
 Habilidades Chave:<br>
-• 📱 **Mobile:** Expertise em Flutter, Android SDK e Widgets customizados[cite: 13].<br>
-• 🏗️ **Arquitetura:** Gerenciamento de estado com MobX e Modular[cite: 13].<br>
-• ⚙️ **DevOps & Ferramentas:** Git, GitHub Actions (CI/CD), Jira e Azure DevOps[cite: 22].<br>
-• ☁️ **Back-end & Integração:** Consumo de APIs REST e bancos de dados SQL[cite: 14, 24].<br><br>
+• 📱 **Mobile:** Expertise em Flutter, Android SDK e Widgets customizados.<br>
+• 🏗️ **Arquitetura:** Gerenciamento de estado com MobX e Modular.<br>
+• ⚙️ **DevOps & Ferramentas:** Git, GitHub Actions (CI/CD), Jira e Azure DevOps.<br>
+• ☁️ **Back-end & Integração:** Consumo de APIs REST e bancos de dados SQL.<br><br>
 Vamos Conectar!<br>Estou sempre aberto a novas oportunidades e colaborações técnicas. Sinta-se à vontade para explorar meus repositórios ou entrar em contato!</p>
 
 ###
